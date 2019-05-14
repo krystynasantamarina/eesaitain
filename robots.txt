@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ijeweidoe.joeroers.com/sitemap.xml
